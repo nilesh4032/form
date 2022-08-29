@@ -10,7 +10,7 @@ let value;
 switch(type) {
   case 'input':
     value={
-      input:"input"
+      input:"text"
     }
     break;
     case 'dropdown':
